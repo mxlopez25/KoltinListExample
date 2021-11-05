@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinInterviewExample</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_label">Add</string>
+    <string name="insert_name_here_hint">Insert Name Here</string>
+</resources>
